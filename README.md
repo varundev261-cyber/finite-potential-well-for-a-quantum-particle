@@ -1,4 +1,3 @@
-# finite-potential-well-for-a-quantum-particle
 # Finite Square Well — Numerical Solution
 
 Solves the 1D time-independent Schrödinger equation for a particle in a
@@ -29,8 +28,6 @@ finite grid with hard-wall boundary conditions.
 | 3 | 55.91646591 |
 | 4 | 59.63581292 |
 
-
-![Wavefunctions](outputs/wavefunctions_finite_well.png)
 
 ## Usage
 ```bash
